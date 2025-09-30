@@ -1,5 +1,5 @@
 # Blue-Team-Portfolio
-Defensive security engineer in training. This repository documents my blue team projects, labs, measurable performance, and repeatable playbooks so employers and clients can evaluate my skills and growth.
+
 🚀 Objective
 
 Become a Blue Team professional capable of detection, response, and threat hunting in both on-prem and cloud environments. This repository showcases practical projects, performance metrics, and instructions to reproduce labs.
